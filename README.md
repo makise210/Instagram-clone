@@ -1,3 +1,6 @@
+![dd96e2ee-49d6-4d3b-aaae-b5739f92cb26](https://github.com/makise210/Instagram-clone/assets/48115073/327e93d8-140d-4db5-af17-a02daa7f3383)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
